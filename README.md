@@ -23,7 +23,7 @@ This repository contains my internship project on **Vulnerability Assessment and
 ## 📂 Project Documentation
 The full VAPT report is available in this repository:
 
-📄 [`Deltaware-VAPT-Project.pdf`](https://github.com/deepthiii33/Deltaware-VAPT-Project/blob/main/Deltware%20VAPT%20Project.pdf)
+📄 [`VAPT Project Report`](https://github.com/deepthiii33/Deltaware-VAPT-Project/blob/main/Deltware%20VAPT%20Project.pdf)
 
 The report includes:
 - Testing methodology
